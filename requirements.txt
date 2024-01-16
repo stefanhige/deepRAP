@@ -1,0 +1,8 @@
+gdown==4.6.0
+matplotlib==3.8.2
+networkx==3.2.1
+nibabel==5.2.0
+numpy==1.26.3
+scipy==1.11.4
+scikit-image==0.22.0
+torch==2.1.2
